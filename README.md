@@ -8,4 +8,4 @@ Present there ready to coonect website page build by React using Js language HTM
 Inspired by Brad Traversy and one of tutorial finding on Youtube " Traversy Media" 
 I did step by step this website page and also add few actual changes.
 
-If any future question don't hesitate contant to me please,
+If any future question don't hesitate contact to me please,
